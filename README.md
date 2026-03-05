@@ -6,7 +6,7 @@ This repository contains analysis code for the manuscript:
 Benchmark forecasts using simple statistical models**
 
 
-Submitted to *Atmospheric Pollution Research* (2026)
+Submitted to *Earth Interactions* (2026)
 
 ---
 
